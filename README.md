@@ -14,6 +14,7 @@ This project explores the correlation between digital infrastructure (Internet P
 
 ### Interactive Dashboard
 [View the Live Dashboard on Tableau Public](https://public.tableau.com/shared/XKFCQXQ4F?:display_count=n&:origin=viz_share_link)
+![Regional Climate Readiness Map](docs/map_screenshot.png)
 
 ### Data Sources
 - World Bank Open Data (WDI)
