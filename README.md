@@ -13,7 +13,7 @@ This project explores the correlation between digital infrastructure (Internet P
 3. **Visualization:** Interactive Tableau Dashboard.
 
 ### Interactive Dashboard
-[View the Live Dashboard on Tableau Public](INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View the Live Dashboard on Tableau Public] https://public.tableau.com/shared/XKFCQXQ4F?:display_count=n&:origin=viz_share_link 
 
 ### Data Sources
 - World Bank Open Data (WDI)
